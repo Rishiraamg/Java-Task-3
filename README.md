@@ -8,3 +8,12 @@ A mini library system using OOP concepts in Java. It allows:
 - Viewing borrowed books
 
 # Features
+- Add new Users
+- Add new books
+- Issue and Return books
+- Display Users' Books
+
+# About the code
+- `Task3.java` is the main Java source file
+- Uses separate classes ( User, Books ) to store user and books data
+-  

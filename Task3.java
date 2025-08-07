@@ -1,5 +1,6 @@
 import java.util.*;
-
+//LIBRARY MANAGEMENT SYSTEM CREATED BY RISHIRAAM USING OOP
+//BY USING TWO SEPARATE CLASSES FOR STORING USERS AND BOOKS
 class Book {
     int id;
     String title;
@@ -210,6 +211,7 @@ public class Task3 {
             System.out.println();
         }
     }
+
 
 
 }
